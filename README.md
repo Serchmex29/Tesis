@@ -12,7 +12,7 @@ Desarrollar un modelo de clasificación supervisada basado en el algoritmo **K-N
 
 ## 📊 Descripción del conjunto de datos
 
-- **Archivo:** `perovskite_dataset.csv`
+- **Archivo:** `Base_1_Perovskitas.csv`
 - **Observaciones:** 576 combinaciones ABX₃.
 - **Variables:**  
   - Radios iónicos de A, B y X  
